@@ -12,7 +12,7 @@ This repository contains a collection of coursework, assignments, and final proj
 - [Spring 2022](#spring-2022)
 - [Summer 2022](#summer-2022)
 - [Fall 2022](#fall-2022)
-- [Spring 2023](#spring-2023)
+- [Spring 2023](#Concepts of Object Oriented Design)
 
 ## Technologies and Skills Demonstrated
 
