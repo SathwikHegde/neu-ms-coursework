@@ -37,7 +37,7 @@ I have gained proficiency in a range of technologies and skills, including but n
 * **Programming Languages:** Python, Java, JavaScript
 * **Databases:** SQL (e.g., MySQL, PostgreSQL)
 * **Cloud Computing:** AWS (e.g., EC2, S3, RDS)
-* **Web Development:** HTML, CSS, JavaScript frameworks (if applicable)
+* **Web Development:** HTML, CSS, JavaScript frameworks
 * **Data Science:** Data analysis, machine learning, data visualization
 * **Software Design:** Object-Oriented Design Principles
 
@@ -47,50 +47,71 @@ I have gained proficiency in a range of technologies and skills, including but n
 
 #### INFO 5100 - Application Engineering and Development
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
+* \[*Practices social-technical software engineering methods and tools to solve real-world problems. Explores innovative design and programming
+techniques to build significant business applications quickly. Studies the process of systematically combining UX techniques, business processes,
+and complex data models to assemble applications that are user-friendly and meet business requirements. Employs the object-oriented paradigm,
+visual user interface design principles, and programming languages such as Java, as well as productivity tools, to put together complicated, powerful
+business applications with ease. Explores the art of how to systematically write software programs to solve any business problem, through practicing
+simple and smart ways of making software programming enjoyable.
+*]
 * **Key Skills:** Java, Object-Oriented Programming, Data Structures
 
 #### DAMG 6210 - Data Management and Database Design
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
+* \[*Studies design of information systems from a data perspective for engineering and business applications; data modeling, including entity-relationship (E-R) and object approaches; user-centric information requirements and data sharing; fundamental concepts of database management systems (DBMS) and their applications; alternative data models, with emphasis on relational design; SQL; data normalization; data-driven application design for personal computer, server-based, enterprise-wide, and Internet databases; and distributed data applications.*]
 * **Key Skills:** SQL, Database Modeling, Relational Database Design
 
 ### Spring 2022
 
 #### INFO 6150 - Web Design and User Experience Engineering
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
+* \[*Focuses on advanced user interface engineering, with a strong emphasis on utility and personalized user experiences development. Through the use
+of tools like React and Flutter, explores how to engineer highly personalized web applications tailored to individual user needs and preferences. Topics
+include responsive layouts, interactive elements, animation integration, and performance tuning. Offers students an opportunity to gain hands-on
+experience in building interfaces that dynamically adapt to user behavior, preferences, and context, ensuring a unique and engaging experience for
+each user.*]
 * **Key Skills:** HTML, CSS, JavaScript, UX Design Principles
 
 #### INFO 6105 - Data Science Engineering Methods and Tools
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
+* \[*Introduces the fundamental techniques for machine learning and data science engineering. Discusses a variety of machine learning algorithms, along
+with examples of their implementation, evaluation, and best practices. Lays the foundation of how learning models are derived from complex data
+pipelines, both algorithmically and practically. Topics include supervised learning (parametric/nonparametric algorithms, support vector machines,
+kernels, neural networks, deep learning) and unsupervised learning (clustering, dimensionality reduction, recommender systems). Based on numerous
+real-world case studies.*]
 * **Key Skills:** Python, Data Analysis, Data Visualization, Machine Learning
 
 ### Summer 2022
 
 #### INFO 6250 - Web Development Tools and Methods
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
-* **Key Skills:** \[*Specific Web Development Frameworks or Technologies Used*]
+* \[*Explores advanced server-side technologies and tools necessary to design and engineer complete web-based enterprise applications quickly.
+Designed to build on previous experience to cover the life cycle of a web-based application. Focuses on MVC web development frameworks to build
+server-side, data-intensive, and multitier web applications. Additionally, discusses designing rich internet applications (RIA) using AJAX and serviceoriented architecture (SOA) using REST.*]
+* **Key Skills:** HTML, CSS, JavaScript
 
 ### Fall 2022
 
 #### CSYE 6225 - Network Structures and Cloud Computing
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
+* \[*Offers a practical foundation in cloud computing and hands-on experience with the tools used in cloud computing. Designed as a foundation course for cloud-aware, adept professionals. Focuses on the fundamentals of cloud computing, the principal areas of cloud architectures, cloud security, cloud governance, cloud storage, cloud virtualization, and cloud capacity. Discusses the Internet evolution that led to cloud and how cloud applications revolutionized Web applications.*]
 * **Key Skills:** AWS, Cloud Architecture, Networking Concepts
 
 #### INFO 7390 - Advanced Data Science
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
+* \[*Covers a wide range of skills and responsibilities that are necessary for managing complex business performance and operational data. Such data
+tend to be fragmented, poorly organized, and often flawed. Offers students an opportunity to learn how a more up-to-date mapping of complex data
+works and to be alerted to the care and attention they must give to such a task as well as the implications of the results. Covers best practices for
+managing all aspects of the data transformation life cycle, covering broad areas such as requirements gathering, meta-model design, data integration
+and transformation, as well as implementation and ongoing operations. Discusses tools for mapping fragmented data into business intelligence
+solutions that guide successful strategies.*]
 * **Key Skills:** \[*Advanced Data Science Techniques Used*]
 
 ### Spring 2023
 
 #### CSYE 6200 - Concepts of Object Oriented Design
 
-* \[*Brief description of key projects or concepts covered in this course. You can add links to specific folders within the repository if you have them.*]
+* \[*Introduces object-oriented design and programming via the Java programming language; the use of inheritance, composition, and interface classes in software design; development of Java applets and applications; study of the Java class libraries, including the swing tool kit for building human computer interfaces, the network package for development of client-server systems, and the collections’ package for data structures and sorting algorithms. Requires a course project. Requires knowledge of C programming.*]
 * **Key Skills:** Object-Oriented Design Principles, Design Patterns, UML
 
 ## License
@@ -103,4 +124,3 @@ Feel free to reach out to me with any questions or inquiries.
 
 * **Email:** [satwikhegde14@gmail.com](mailto:satwikhegde14@gmail.com)
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sathwikhegde/)
-
